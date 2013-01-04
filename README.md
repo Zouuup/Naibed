@@ -6,4 +6,4 @@ Naibed is set of scripts to easily recreate custom image out of debian standard 
 How is it working?
 ======
 
-naibed assuem that you have already downloaded your choose of debian images
+naibed assumes that you have already downloaded your choose of debian images
